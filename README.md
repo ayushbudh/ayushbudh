@@ -7,7 +7,8 @@
 - 👯 I’m looking to collaborate on projects related to Web Technologies, Mobile App Development, and Cloud Native Technologies.
 - 🤔 I’m looking for help on UI design.
 - 💬 Ask me about anything related to web technologies, servers, and cloud native.
-- 📫 Feel free to reach me at ayushbudhwani77@gmail.com or connect with me on linkedin https://linkedin.com/in/ayush-budhwani/ :wink:
+- 📫 Feel free to reach me at ayushbudhwani77@gmail.com :wink:
+- :link:	Feel free to connect with me on linkedin https://linkedin.com/in/ayush-budhwani/
 - ⚡ Fun fact: I am a big fan of anime series.
 - :triangular_flag_on_post: My goal is to improve people lives. 
 
