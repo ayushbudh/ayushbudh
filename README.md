@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working as a Software Developer Intern at SAP.
 - :student: I'm currently an undergraduate student majoring in computer science at Georgia State University.
-- 🌱 I’m currently learning Flutter, Kubernetes & Docker, Advance Database Systems, and Cybersecurity.
+- 🌱 I’m currently learning Flutter, Kubernetes & Docker, and Advance Database Systems.
 - 👯 I’m looking to collaborate on projects related to Web Technologies, Mobile App Development, and Cloud Native Technologies.
 - 🤔 I’m looking for help on UI design.
 - 💬 Ask me about anything related to web technologies, servers, and cloud native.
