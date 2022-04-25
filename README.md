@@ -1,7 +1,7 @@
 ### Hello World! I'm Ayush 👋
 
 
-- 🔭 I’m currently working as a Software Developer Intern at SAP.
+- 🔭 I will joining Google as a STEP intern for Summer 2022.
 - :student: I'm currently an undergraduate student majoring in computer science at Georgia State University.
 - 🌱 I’m currently learning Flutter, Kubernetes & Docker, and Advance Database Systems.
 - 👯 I’m looking to collaborate on projects related to Web Technologies, Mobile App Development, and Cloud Native Technologies.
